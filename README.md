@@ -1,4 +1,4 @@
-# RAM: RAM-CD: Dynamic Deformation Alignment with Rank-Guided Enhancement for Remote Sensing Change Detection
+# RAM-CD: Dynamic Deformation Alignment with Rank-Guided Enhancement for Remote Sensing Change Detection
 
 Here, we provide the pytorch implementation of the paper: "RAM: Rank-Aware Multi-Scale Feature Alignment for Remote Sensing Change Detection".
 
@@ -100,5 +100,5 @@ LEVIR-CD: https://justchenhao.github.io/LEVIR/
 
 WHU-CD: https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html
 
-DSIFN-CD: https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset
+
 
