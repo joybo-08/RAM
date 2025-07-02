@@ -17,7 +17,7 @@ torchvision 0.19.1
 Clone this repo:
 
 ```shell
-git clone https://github.com/joybo/RAM_main.git
+git clone https://github.com/joybo-08/RAM_main.git
 cd RAM_main
 ```
 
